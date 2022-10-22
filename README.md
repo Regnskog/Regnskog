@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Regnskog
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python, HTML, JavaScript, CSS and C.
+- 🌱 I’m currently learning python, HTML, JavaScript and CSS.
 - 💞️ I’m looking to collaborate on codes, games,...
 - 📫 How to reach me follow my account.
 
